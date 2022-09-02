@@ -66,7 +66,7 @@ function getMealRecipe(e){
 
 // create a modal
 const mealRecipeModal = function (meal){
-    console.log(meal);
+    console.log(meal)
     meal = meal[0];
     let html = `
         <h2 class = "recipe-title">${meal.strMeal}</h2>
