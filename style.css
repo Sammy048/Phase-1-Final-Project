@@ -242,7 +242,7 @@ body{
 .recipe-meal-img img{
     width: 250px;
     height: 250px;
-    border-radius: 50%;
+    border-radius: 51%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
