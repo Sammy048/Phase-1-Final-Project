@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
     recipeCloseBtn.addEventListener('click', () => {
     mealDetailsContent.parentElement.classList.remove('showRecipe');
 
-    mealRecipeModal.addEventListener('keydown', (e) => {
+    mealDetailsContent.addEventListener('keydown', (e) => {
     if (e.key === 'Escape' && !mealDetailsContent.classList.contains('hidden')) {
         closeModal();
       }
