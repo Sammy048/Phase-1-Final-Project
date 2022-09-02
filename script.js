@@ -53,7 +53,7 @@ function getMealList(){
 }
 
 
-// get recipe of the meal
+// get recipe of the meals
 function getMealRecipe(e){
     e.preventDefault();
     if(e.target.classList.contains('recipe-btn')){

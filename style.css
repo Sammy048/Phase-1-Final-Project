@@ -243,7 +243,7 @@ body{
     width: 250px;
     height: 250px;
     border-radius: 51%;
-    -webkit-border-radius: 50%;
+    -webkit-border-radius: 51%;
     -moz-border-radius: 51%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
