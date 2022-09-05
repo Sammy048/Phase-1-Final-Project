@@ -52,6 +52,10 @@ Below are pictures of the application's layout
 
 <img src="img/Screenshot from 2022-09-02 16-58-09.png" alt="Alt text" title="Optional title">
 
+## Github live-link
+
+* https://sammy048.github.io/Phase-1-Final-Project/
+
 
 
 
